@@ -1,0 +1,80 @@
+diff --git a/blog.html b/blog.html
+--- blog.html
++++ blog.html
+@@ -22,51 +22,51 @@
+ <section id="blog" class="blog">
+         <h2 >CCTV INSTALLATIONS</h2>
+         <div  class="blog-images">
+         <div  class="blog-image">
+-        <a  href="CCTV (1).jpg"><img src="CCTV (1).jpg" alt="Project 1"></a>
++        <a  href="CCTV (1).jpg"><img src="CCTV (1).jpg"></a>
+         </div>
+         <div  class="blog-image">
+-        <a  href="CCTV (2).jpg"><img src="CCTV (2).jpg" alt="Project 1"></a>
++        <a  href="CCTV (2).jpg"><img src="CCTV (2).jpg" ></a>
+         </div>
+         <div  class="blog-image">
+-        <a  href="CCTV (3).jpg"><img src="CCTV (3).jpg" alt="Project 1"></a>
++        <a  href="CCTV (3).jpg"><img src="CCTV (3).jpg"></a>
+         </div>
+         <div  class="blog-image">
+-        <a  href="CCTV (4).jpg"><img src="CCTV (4).jpg" alt="Project 1"></a>
++        <a  href="CCTV (4).jpg"><img src="CCTV (4).jpg"></a>
+         </div>
+         </div>
+         <div  class="blog-image">
+-            <a  href="CCTV (5).jpg"><img src="CCTV (5).jpg" alt="Project 1"></a>
++            <a  href="CCTV (5).jpg"><img src="CCTV (5).jpg"></a>
+         </div>
+ 
+     <h2>COMPUTER SERVICES</h2>
+     <!--<div class="blog-images">-->
+         <div  class="blog-images">
+             <div  class="blog-image">
+-            <a  href="PC (1).jpg"><img src="PC (1).jpg" alt="Project 1"></a>
++            <a  href="PC (1).jpg"><img src="PC (1).jpg"></a>
+             </div>
+             <div  class="blog-image">
+-            <a  href="PC (2).jpg"><img src="PC (2).jpg" alt="Project 1"></a>
++            <a  href="PC (2).jpg"><img src="PC (2).jpg"></a>
+             </div>
+             <div  class="blog-image">
+-            <a  href="PC (3).jpg"><img src="PC (3).jpg" alt="Project 1"></a>
++            <a  href="PC (3).jpg"><img src="PC (3).jpg "></a>
+             </div>
+             <div  class="blog-image">
+-                <a  href="11.jpg"><img src="11.jpg" alt="Project 11"></a>
++                <a  href="11.jpg"><img src="11.jpg"></a>
+                 </div>
+             </div>
+     <h2 >ISP</h2>
+     <!--<div class="blog-images">-->
+         <div  class="blog-images">
+             <div  class="blog-image">
+-            <a  href="ISP (1).jpg"><img src="ISP (1).jpg" alt="Project 1"></a>
++            <a  href="ISP (1).jpg"><img src="ISP (1).jpg"></a>
+             </div>
+             <div  class="blog-image">
+-            <a  href="ISP (2).jpg"><img src="ISP (2).jpg" alt="Project 2"></a>
++            <a  href="ISP (2).jpg"><img src="ISP (2).jpg" ></a>
+             </div>
+             <div  class="blog-image">
+-            <a  href="ISP (3).jpg"><img src="ISP (3).jpg" alt="Project 3"></a>
++            <a  href="ISP (3).jpg"><img src="ISP (3).jpg" ></a>
+             </div>
+             <div  class="blog-image">
+             <a  href="13.jpg"><img src="13.jpg" alt="img 13"></a>
+             </div>
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -26,8 +26,8 @@
+ </body>
+ <footer>
+     <p>&copy; 2024 Reutech Hub.
+         <br><a href="mailto:reutechhub@gmail.com">reutechhub@gmail.com</a>
+-        <br><br><a href="0970067982">0970067982</a> | <a href="0769963307">0769963307</a>
++        <br><br>0970067982 | 0769963307
+     </p>
+ </footer>
+ </html>
